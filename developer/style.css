@@ -62,3 +62,25 @@ p {
     color: black;
     font-family: Courier;
 }
+
+
+
+.footer {
+    text-align: center;
+    width: 100vw;
+}
+
+.footer-links {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.footer-section {
+    background-image: url('bg.png');
+    background-size: cover;
+    background-cover: no-repeat;
+}
+
+p {
+    text-align:center;
+}
